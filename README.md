@@ -32,14 +32,3 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F5670D085FECAFFA9CDD893AC97146A09EBA8A708228E69940C25DB4B9AA2644"><br>Oracle Cloud Data Infrastructure 2023 AI Certified Foundations Associate</a> <br>
                    Oracle University <br>
                    November 7, 2023 </center><br></p>
-                   December 9, 2022 </center></p>
-<p align ="left">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#"><br>Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a> <br>
-                   Oracle University <br>
-                   November 23, 2022 </center><br></p>
-                   November 23, 2022 </center></p>
-<p align ="left">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>SQL and Relational Databases 101</a> <br>
-                   Cognitive Class <br>
-                   November 2, 2022 </center><br></p>
-                   November 2, 2022 </center></p>
