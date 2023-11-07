@@ -1,7 +1,7 @@
 [![MasterHead]()](https://rishavchanda.io)
 <h1 align="center">Noriel Achero</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/nrachero/">
+    <a href="https://www.linkedin.com/in/joanne-mae-absulio-570762266/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto: acheronorielr@gmail.com">
