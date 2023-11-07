@@ -1,5 +1,4 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQEXU4vGqAdWOQ/profile-displaybackgroundimage-shrink_350_1400/0/1676614113959?e=1704931200&v=beta&t=-a4gOCkhQ-AR05Fb2Da-wSfrmyUTmzEfSksRCiyd6aY)](https://rishavchanda.io)
-<h1 align="center">JOANNE MAE V. ABSULIO</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/joanne-mae-absulio-570762266/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
