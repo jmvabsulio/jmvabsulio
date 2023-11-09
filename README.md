@@ -12,9 +12,6 @@
     <a href="https://www.instagram.com/maeabsl/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://t.me/jmabsulio">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
 </p>
 <h3 align="center">A Senior Information Technology student at New Era University, Quezon City, Philippines</h3>
 <h1 align="left">Languages and Tools</h1>
