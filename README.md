@@ -9,9 +9,6 @@
     <a href="https://www.facebook.com/maeabsl/">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="https://www.instagram.com/maeabsl/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
 </p>
 <h3 align="center">A Senior Information Technology student at New Era University, Quezon City, Philippines</h3>
 <h1 align="left">Languages and Tools</h1>
